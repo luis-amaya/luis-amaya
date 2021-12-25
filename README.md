@@ -42,8 +42,8 @@ Systems Engineer student, focused on software and web development. 9th semester 
         <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
       </td>
       <td width="25%" align="center">
-        <span>Maven</span><br><br><br>
-        <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
+        <span>MariaDB</span><br><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png">
       </td>
       <td width="25%" align="center">
         <span>PHP</span><br><br><br>
